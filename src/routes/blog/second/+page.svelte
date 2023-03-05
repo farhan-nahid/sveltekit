@@ -1,0 +1,1 @@
+<h1>Second blog page</h1>
